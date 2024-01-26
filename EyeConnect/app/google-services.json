@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861248578386",
+    "project_id": "lofo-e70ac",
+    "storage_bucket": "lofo-e70ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861248578386:android:98f371c3164777391e508b",
+        "android_client_info": {
+          "package_name": "com.neer.eyeconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJhJVMjJXtV7I1pgmNDLyKH-w5VjOypSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861248578386:android:d6e61c9a86ad624d1e508b",
+        "android_client_info": {
+          "package_name": "com.shruti.lofo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJhJVMjJXtV7I1pgmNDLyKH-w5VjOypSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

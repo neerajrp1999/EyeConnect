@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>Electronics</item>
+        <item>Academics</item>
+        <item>Documents</item>
+        <item>Bottle</item>
+        <item>Jewellery</item>
+        <item>Key</item>
+        <item>Wallet</item>
+        <item>Accessories</item>
+        <item>Cloths</item>
+        <item>Other</item>
+    </string-array>
+</resources>
