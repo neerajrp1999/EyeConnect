@@ -1,6 +1,6 @@
 # EyeConnect
 
-EyeConnect is a comprehensive missing persons identification platform that uses facial recognition and combines user-friendly reporting, machine learning, and community engagement. The project consists of two main components:
+EyeConnect is a comprehensive missing persons identification platform using facial recognition and combines user-friendly reporting, machine learning, and community engagement. The project consists of two main components:
 
 1. **EyeConnect (Client Side - Android Application)**
    - The EyeConnect Android app allows users to report missing persons through an intuitive interface.
